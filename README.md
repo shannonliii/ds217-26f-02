@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+Reads one week of clinic encounter data, skips unusable rows, and writes a systolic blood pressure summary plus a follow-up call list of high-reading patients.
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+Run 'python3 clinic_report.py' from this folder.
 
 ## Files
 
