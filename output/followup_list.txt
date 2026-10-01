@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: 140 mmHg is the AHA stage 2 hypertension threshold, so calls go to patients most likely to need treatment changes.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
